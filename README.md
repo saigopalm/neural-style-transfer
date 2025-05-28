@@ -9,4 +9,6 @@ The system extracts multi-level content and style features using a pre-trained *
 
 This project is deployed as a REST API using FastAPI.
 
-Users can upload a content image and a style image and receive the stylized result via a POST request.
+Users can upload a content image and a style image and receive the stylized result via a `POST` request.
+
+**Live Demo**: [https://manthasaigopal-style-transfer.hf.space/docs](https://manthasaigopal-style-transfer.hf.space/docs)
